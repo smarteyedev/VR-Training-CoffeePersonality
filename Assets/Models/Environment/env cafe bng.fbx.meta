@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 93313b97209c83747b5f53e34a7fe833
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CoffeeMachine
+    second: {fileID: 2100000, guid: 63359fe72a39ceb4eb1ba8c4f1eaae11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Stuff
+    second: {fileID: 2100000, guid: caae7e6b9cb46b949b27b1229f21d05e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Stuff_trim
+    second: {fileID: 2100000, guid: 0be96612ab89d98489d9ef8f1ea92edf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wood2
+    second: {fileID: 2100000, guid: 1cdd4a4e494154440be908e86b5b86ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Wood3
+    second: {fileID: 2100000, guid: 67fbf8eeb32b8ad42bf7bb391588ed57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_cashreg
+    second: {fileID: 2100000, guid: bca60e65b48880248b3d4e8f602e58ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_wood7
+    second: {fileID: 2100000, guid: f86fa757a1e55ff4f83d41ec33cd0c80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bangunan
+    second: {fileID: 2100000, guid: 22f43b262c7d34e4fb0a0f51b03f00ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kayu
+    second: {fileID: 2100000, guid: 36728b9bb867c574f97b89d259fa4072, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kayu 2
+    second: {fileID: 2100000, guid: 687077dd31318fd44b6bef7a5a90de85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kursi
+    second: {fileID: 2100000, guid: c9e8f208d89483a4ebcf4a7c9687df74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m_bREAD
+    second: {fileID: 2100000, guid: 712151ec7a977e447a1ffac85d3bc440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: set12
+    second: {fileID: 2100000, guid: 32c23d2f76dc26b44a8c6a45d95a3e4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tbjr_material
+    second: {fileID: 2100000, guid: a94b16cad6db3b04a880795cf1ecb170, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Atlas01_Diff
+    second: {fileID: 2800000, guid: 3df7598a04c06c94c8cb2a1a53c1424c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Atlas02_Diff
+    second: {fileID: 2800000, guid: 1307c1b03ae6eaa4aac741440810d99a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bread_Diff
+    second: {fileID: 2800000, guid: 0a8d95bf57b092643b4792fe156e961f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Centra 70 - Architecture - Flooring Ideas - Design - Interior Trends
+    second: {fileID: 2800000, guid: a77356eadf00c6941add95297600f91f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: CoffeeMachine-lp_CoffeeMachine_BaseColor
+    second: {fileID: 2800000, guid: 387cce4a4ac162b48a195bd534f1205a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Trim02_Diff
+    second: {fileID: 2800000, guid: c2e958628c84b2f4ca5b5521e2f34d6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_clean_Brown_Diff
+    second: {fileID: 2800000, guid: 8c5bf0b764974fb46b72d694255e1327, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_old_brown_Diff
+    second: {fileID: 2800000, guid: 592cb5897f07ecb48b38b6b4bbec2825, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wood_old_grey_Diff
+    second: {fileID: 2800000, guid: f048efbc8362b9448a9fe13e158a51c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: set12_baseColor
+    second: {fileID: 2800000, guid: 9fc2c9fdbe5ade44eab30869feb2bf81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: set12_normal
+    second: {fileID: 2800000, guid: df18bcd55e32de449b349bf7c46539a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: tbjr_material_baseColor
+    second: {fileID: 2800000, guid: 888b1c0657994c64590fe5bf30f2090d, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
